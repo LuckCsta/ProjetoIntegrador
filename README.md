@@ -57,8 +57,8 @@ Cada modelo foi avaliado com validação cruzada (10 folds), intervalos de confi
 - `Projeto_Integrador_WORKFLOW_PARTE_2.ipynb` e `.pdf`: Parte 2, com os relatórios parciais dos três modelos e o relatório final.
 
 ## Links
-- Parte 1 no Colab: [abrir](COLE_O_LINK)
-- Parte 2 no Colab: [abrir](COLE_O_LINK)
+- Parte 1 no Colab: [abrir](https://colab.research.google.com/github/LuckCsta/ProjetoIntegrador/blob/main/Projeto_Integrador_WORKFLOW_PARTE_1.ipynb)
+- Parte 2 no Colab: [abrir](https://colab.research.google.com/github/LuckCsta/ProjetoIntegrador/blob/main/WORKFLOW_PARTE_2.ipynb#scrollTo=x4Zk9rhe1bET)
 
 ## Tecnologias
 Python, pandas, NumPy, SciPy, statsmodels, scikit-learn, Matplotlib, seaborn e Google Colab.
